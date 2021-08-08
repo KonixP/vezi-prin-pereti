@@ -1,0 +1,5 @@
+-- by KonixP 4/11/2018
+-- works in both limited lua and full lua
+local plr = game.Players.LocalPlayer
+plr.DevCameraOcclusionMode = "Invisicam"
+plr.CameraMaxZoomDistance = 400
